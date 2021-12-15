@@ -170,7 +170,7 @@ iframe {
 	margin: auto;
 	height: 5vh;
 }
-.surv a:active{
+.surv a{
 	color: blue;
 	text-decoration: underline;
 }
